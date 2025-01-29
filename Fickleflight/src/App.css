@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+.banner {
+  background: #1E77B4 url(./images/banner.png)  no-repeat center/cover;
+height: 90vh;
+top: 0px;
+
+  
+}
+
+.Paris{
+  background-image: url('./images/ParisImage.png');
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+.greece{
+  background-image: url('./images/Norway.png');
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+.norway{
+  background-image: url('./images/Greece.png');
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+.tuscany{
+  background-image: url('./images/Tuscany.png');
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+.Bali{
+  background-image: url('./images/Bali.png');
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  border-radius: 10px 0px 0px;
+  background-size: cover;
+}
+
+.Boracay{
+  background-image: url('./images/Boracay.png');
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  border-radius: 10px 0px 0px;
+  background-size: cover;
+}
+
+.Palawan{
+  background-image: url('./images/Palawan.png');
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  border-radius: 10px 0px 0px;
+  background-size: cover;
+}
+
+.Switzerland{
+  background-image: url('./images/Switzerland.png');
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  border-radius: 10px 0px 0px;
+  background-size: cover;
+}
+
+.cont{
+  height: 80px;
+  width: 300px;
+  border-radius: 0px 0px 10px 10px;
+
+}
+
+.Popular-Stays {
+  height: 430px;
+  width: 300px;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+}
+
+.cstm-img{
+  background-image: url('./images/Matterhorn.png');
+}
+
+.cstm-img2{
+  background-image: url('./images/Discovery.png');
+}
+.cstm-img3{
+  background-image: url('./images/Arctic Hut.png');
+}
+
+.cstm-img4{
+  background-image: url('./images/Lake.png');
+}
+
+.footer{
+  background: #1E77B4 url(./images/foott.png)  no-repeat center/cover;
+
+}
+.submit-btn{
+background-color: #F99A0E;
+color: white;
+margin-left: 28px;
+width: 150px;
+margin-top: 5px;
+}
+
+.footer-background{
+  background-color: #0C5CA9;
+  height: 300px;
+}
+.social-icons{
+  background-image: './images/social.png';
+}
+
+.list-item-h:hover {
+  color: yellow; /* Change text color to blue when hovered */
+}
+
+
+
+
+
+
+
